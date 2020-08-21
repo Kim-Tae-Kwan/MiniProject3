@@ -1,0 +1,58 @@
+1.Mqtt_MonitoringApp 프로젝트 생성
+
+2.Views/ViewModels/Models 폴더 생성(Caliburn)
+
+3.패키지 설치 
+ - MySQL, Caliburn,Mah.App,LiveChart,M2Mqtt,NewtonJson
+
+4.Helpers/Commons 생성
+           /DialogTypeLocator
+5.Bootstrapper 생성
+
+6. App.xaml 수정
+	<ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--Caliburn-->
+                <ResourceDictionary>
+                    <local:Bootstrapper x:Key="bootstrapper"/>
+                </ResourceDictionary>
+
+                <!--MahApp-->
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Themes/Light.Blue.xaml" />
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+7.MainWindow -> MainView 이름 바꾸기
+  Views폴더로 이동
+
+8. MainViewModel에서 Conductor<object> 상속 받기
+   MainView.xaml의 Title 지우고 MainView.xaml.cs 에 생성자 생성(이름 바꾸기)
+   
+9. MainView.xaml에
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+  추가
+
+10. MainView.xaml의 <Window 을 <mah:MetroWindow 로 변경, MainView.xaml.cs에 MetroWindow 상속 (mah 적용하기)
+
+11. <mah:MetroWindow.IconTemplate>
+        <DataTemplate>
+            <iconPacks:PackIconMaterialDesign Kind="InsertChart" Foreground="White" Margin="5,7,0,0"/>
+        </DataTemplate>
+    </mah:MetroWindow.IconTemplate> (아이콘 추가하기)
+
+12.
+
+
+ 
+
+
+
+
+
+
+
+

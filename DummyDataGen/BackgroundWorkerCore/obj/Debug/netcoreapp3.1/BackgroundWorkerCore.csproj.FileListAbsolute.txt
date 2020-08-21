@@ -1,0 +1,15 @@
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\bin\Debug\netcoreapp3.1\BackgroundWorkerCore.exe
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\bin\Debug\netcoreapp3.1\BackgroundWorkerCore.deps.json
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\bin\Debug\netcoreapp3.1\BackgroundWorkerCore.runtimeconfig.json
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\bin\Debug\netcoreapp3.1\BackgroundWorkerCore.runtimeconfig.dev.json
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\bin\Debug\netcoreapp3.1\BackgroundWorkerCore.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\bin\Debug\netcoreapp3.1\BackgroundWorkerCore.pdb
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.csprojAssemblyReference.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.Form1.resources
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.csproj.GenerateResource.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.AssemblyInfoInputs.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.AssemblyInfo.cs
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.csproj.CoreCompileInputs.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.pdb
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerCore\obj\Debug\netcoreapp3.1\BackgroundWorkerCore.genruntimeconfig.cache

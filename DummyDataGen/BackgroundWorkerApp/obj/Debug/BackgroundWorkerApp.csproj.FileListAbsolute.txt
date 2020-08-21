@@ -1,0 +1,10 @@
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\bin\Debug\BackgroundWorkerApp.exe.config
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\bin\Debug\BackgroundWorkerApp.exe
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\bin\Debug\BackgroundWorkerApp.pdb
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\obj\Debug\BackgroundWorkerApp.csprojAssemblyReference.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\obj\Debug\BackgroundWorkerApp.Form1.resources
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\obj\Debug\BackgroundWorkerApp.Properties.Resources.resources
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\obj\Debug\BackgroundWorkerApp.csproj.GenerateResource.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\obj\Debug\BackgroundWorkerApp.csproj.CoreCompileInputs.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\obj\Debug\BackgroundWorkerApp.exe
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BackgroundWorkerApp\obj\Debug\BackgroundWorkerApp.pdb

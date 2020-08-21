@@ -1,0 +1,12 @@
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\bin\Debug\BogusFakeWeatherApp.exe.config
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\bin\Debug\BogusFakeWeatherApp.exe
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\bin\Debug\BogusFakeWeatherApp.pdb
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\bin\Debug\Bogus.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\bin\Debug\Bogus.xml
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\obj\Debug\BogusFakeWeatherApp.csprojAssemblyReference.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\obj\Debug\BogusFakeWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\obj\Debug\BogusFakeWeatherApp.csproj.CopyComplete
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\obj\Debug\BogusFakeWeatherApp.exe
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusFakeWeatherApp\obj\Debug\BogusFakeWeatherApp.pdb

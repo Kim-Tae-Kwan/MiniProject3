@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqe49uwfUYcXm1fVf9KC3ARn88IhlCFgKTswwzRmD164zkJEbcGGCemK6uLiThZq+GWuB4+ThHya/vFn6VCTew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PKNU\\Desktop\\IOT\\Miniproject3\\DummyDataGen\\BogusMqttWinPubCore\\BogusMqttWinPubCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PKNU\\.nuget\\packages\\bogus\\30.0.4\\bogus.30.0.4.nupkg.sha512",
+    "C:\\Users\\PKNU\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

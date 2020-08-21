@@ -1,0 +1,14 @@
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\BogusMqttPubApp.exe.config
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\BogusMqttPubApp.exe
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\BogusMqttPubApp.pdb
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\Bogus.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\M2Mqtt.Net.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\Bogus.xml
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\obj\Debug\BogusMqttPubApp.csprojAssemblyReference.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\obj\Debug\BogusMqttPubApp.csproj.CoreCompileInputs.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\obj\Debug\BogusMqttPubApp.csproj.CopyComplete
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\obj\Debug\BogusMqttPubApp.exe
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttPubApp\obj\Debug\BogusMqttPubApp.pdb

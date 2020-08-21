@@ -1,0 +1,10 @@
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\bin\Debug\netcoreapp3.1\BogusMqttWinPubCore.exe
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\obj\Debug\netcoreapp3.1\BogusMqttWinPubCore.csprojAssemblyReference.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\obj\Debug\netcoreapp3.1\BogusMqttWinPubCore.Form1.resources
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\obj\Debug\netcoreapp3.1\BogusMqttWinPubCore.csproj.GenerateResource.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\obj\Debug\netcoreapp3.1\BogusMqttWinPubCore.AssemblyInfoInputs.cache
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\obj\Debug\netcoreapp3.1\BogusMqttWinPubCore.AssemblyInfo.cs
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\obj\Debug\netcoreapp3.1\BogusMqttWinPubCore.csproj.CopyComplete
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\bin\Debug\netcoreapp3.1\M2Mqtt.Net.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\BogusMqttWinPubCore\bin\Debug\netcoreapp3.1\Bogus.dll
