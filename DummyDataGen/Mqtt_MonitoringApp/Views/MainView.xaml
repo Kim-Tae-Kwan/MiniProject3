@@ -81,7 +81,7 @@
 
                 <ToolBarTray>
                     <ToolBar Style="{DynamicResource MahApps.Styles.ToolBar}" ClipToBounds="False">
-                        <Button ToolTip="Start MQTT Subscriber">
+                        <Button x:Name="ToolBarStart" ToolTip="Start MQTT Subscriber">
                             <iconPacks:MaterialDesign Kind="PlayCircleFilled"/>
                         </Button>
                         <Button ToolTip="Stop MQTT">

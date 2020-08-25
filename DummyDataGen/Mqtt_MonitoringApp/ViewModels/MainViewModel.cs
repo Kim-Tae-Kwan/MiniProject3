@@ -39,7 +39,15 @@ namespace Mqtt_MonitoringApp.ViewModels
 
         public void LoadDataBaseView()
         {
-            ActivateItem(new DataBaseViewModel());
+            if (Commons.BROKERCLIENT != null)
+            {
+                ActivateItem(new DataBaseViewModel());
+            }
+            else
+            {
+                var wManager = new WindowManager();
+                wManager.ShowDialog(new ErrorPopuoViewModel("Error|MQTT가 실행되지 않았습니다."));
+            }
         }
 
         public void LoadRealTimeView()
@@ -66,6 +74,11 @@ namespace Mqtt_MonitoringApp.ViewModels
             {
                 ActivateItem(new DataBaseViewModel());
             }
+        }
+
+        public void ToolBarStart()
+        {
+            TaskStart();
         }
     }
 }

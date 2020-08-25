@@ -10,6 +10,7 @@ namespace Mqtt_MonitoringApp.ViewModels
 {
     public class CustomPopupViewModel : Conductor<object>
     {
+        #region 속성영역
         string brokerIP;
         public string BrokerIP
         {
@@ -31,7 +32,7 @@ namespace Mqtt_MonitoringApp.ViewModels
                 NotifyOfPropertyChange(() => Topic);
             }
         }
-
+        #endregion
 
         public CustomPopupViewModel(string title)
         {

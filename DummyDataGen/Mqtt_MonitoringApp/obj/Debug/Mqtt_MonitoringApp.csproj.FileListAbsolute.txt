@@ -122,3 +122,9 @@ C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\obj\Debug
 C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\obj\Debug\Views\RealTimeView.baml
 C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\obj\Debug\Views\CustomPopupView.g.cs
 C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\obj\Debug\Views\CustomPopupView.baml
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\obj\Debug\Views\ErrorPopuoView.g.cs
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\obj\Debug\Views\ErrorPopuoView.baml
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\bin\Debug\OxyPlot.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\bin\Debug\OxyPlot.xml
+C:\Users\PKNU\Desktop\IOT\Miniproject3\DummyDataGen\Mqtt_MonitoringApp\bin\Debug\OxyPlot.Wpf.xml

@@ -40,8 +40,7 @@ namespace BogusMqttWinPubApp
 
 
             MqttBrokerUrl = "localhost"; // 127.0.0.1 210.119.12.60
-            //string[] Rooms = new[] { "DiningRoom", "LivingRoom", "BathRoom", "BedRoom", "GuestRoom" };
-            string[] Rooms = new[] { "DiningRoom", "LivingRoom", "BedRoom"};
+            string[] Rooms = new[] { "DiningRoom", "LivingRoom", "BathRoom", "BedRoom", "GuestRoom" };
 
             SensorFaker = new Faker<SensorInfo>()
                 .RuleFor(o => o.Dev_Id, f => f.PickRandom(Rooms))
@@ -90,7 +89,7 @@ namespace BogusMqttWinPubApp
                     RtbLog.ScrollToCaret();
                 }));
 
-                Thread.Sleep(1000);
+                Thread.Sleep(5000);
             }
         }
 
