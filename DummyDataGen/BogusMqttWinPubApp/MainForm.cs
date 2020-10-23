@@ -89,7 +89,7 @@ namespace BogusMqttWinPubApp
                     RtbLog.ScrollToCaret();
                 }));
 
-                Thread.Sleep(5000);
+                Thread.Sleep(1000);
             }
         }
 
